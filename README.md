@@ -1,6 +1,8 @@
 # Aarhus-Netlab
 NetLab Meeting, 22 September 2015, Aarhus University (Denmark)
 
+![Virtual Machine with Gephi running](https://raw.githubusercontent.com/ianmilligan1/Aarhus-Netlab/master/Gephi-VM-In-Action.png)
+
 I had the pleasure of speaking to NetLab members at one of their meetings about:
 - why I think historians need to use web archives;
 - why existing acccess methods (i.e. Wayback Machine or Archive-It search) are insufficient;
