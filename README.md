@@ -26,8 +26,10 @@ I will show a brief example with Gephi. It's best if you're running this on your
 [WebArchives.ca](http://webarchives.ca/)  
 An implementation of the UK Web Archive's [Shine Interface](https://github.com/ukwa/shine). It received [some media attention in Canada](http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-professor-restores-deleted-political-platforms-promises-1.3204877), showing an appetite for this sort of material.
 
-## Virtual Machine
-[Gephi](http://gephi.github.io/) can occasionally be a nightmare to get running, at least on Mac OS X. Seemingly, every time you upgrade an OS X version it breaks. To get around these incompatabilities, I use virtual machines. One example is [HistoryCrawler](http://ianmilligan.ca/historycrawler/), soon to natively support Gephi.
+## HistoryCrawler Virtual Machine
+[Gephi](http://gephi.github.io/) can occasionally be a nightmare to get running, at least on Mac OS X. Seemingly, every time you upgrade an OS X version it breaks. To get around these incompatabilities, I use virtual machines. 
+
+One example is [HistoryCrawler](http://ianmilligan.ca/historycrawler/), developed at Western University and the University of Waterloo. It does not have Gephi included, but the install instructions [on their webpage](http://gephi.github.io/users/install/) work swimmingly (tested 20 September 2015).
 
 ## Questions/Comments
 I am always happy to chat. My personal website is at [ianmilligan.ca](http://ianmilligan.ca) or you can [e-mail me](mailto:i2millig@uwaterloo.ca].
