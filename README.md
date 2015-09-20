@@ -1,7 +1,7 @@
-# Aarhus-Netlab
-NetLab Meeting, 22 September 2015, Aarhus University (Denmark)
+# NetLab Meeting, 22 September 2015, Aarhus University (Denmark)
 
 ![Virtual Machine with Gephi running](https://raw.githubusercontent.com/ianmilligan1/Aarhus-Netlab/master/Gephi-VM-In-Action.png)
+_Figure 1: Virtual Machine with Gephi running_
 
 I was invited to speak to the Danish [NetLab](http://netlab.dk/) about historians and web archives. The presentation includes:
 - why I think historians need to use web archives;
@@ -26,6 +26,7 @@ I will show a brief example with Gephi. It's best if you're running this on your
 [WebArchives.ca](http://webarchives.ca/): a search interface for Archive-It's collection of [Canadian Political Parties and Interest Groups](https://archive-it.org/collections/227).
 
 ![Shine](https://raw.githubusercontent.com/ianmilligan1/Aarhus-Netlab/master/Shine.png)
+_Figure 2: Shine in Action_
 
 WebArchives.ca is an implementation of the UK Web Archive's [Shine Interface](https://github.com/ukwa/shine) – an amazing front end that I'll be talking about in the lecture.
 
