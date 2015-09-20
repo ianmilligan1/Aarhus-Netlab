@@ -3,12 +3,14 @@ NetLab Meeting, 22 September 2015, Aarhus University (Denmark)
 
 ![Virtual Machine with Gephi running](https://raw.githubusercontent.com/ianmilligan1/Aarhus-Netlab/master/Gephi-VM-In-Action.png)
 
-I had the pleasure of speaking to NetLab members at one of their meetings about:
+I was invited to speak to the Danish [NetLab](http://netlab.dk/) about historians and web archives. The presentation includes:
 - why I think historians need to use web archives;
 - why existing acccess methods (i.e. Wayback Machine or Archive-It search) are insufficient;
 - how a combination of Warcbase and Shine can help you unlock your collections!
 
 Slidedeck has been uploaded as a PDF, [available here](https://github.com/ianmilligan1/Aarhus-Netlab/blob/master/Large-Scale-Web-Archive-Mining-Slidedeck.pdf).
+
+I was also invited to speak, later in the day, at the Centre for Internet Studies on my work with the GeoCities torrent. [The page about my talk is available here](http://cfi.au.dk/news/article/artikel/cfi-seminar-web-history-geocities-and-news-websites/).
 
 Some links:
 
