@@ -23,8 +23,13 @@ And sample data provided in this repo: output from [Site Link Structure](https:/
 I will show a brief example with Gephi. It's best if you're running this on your own machine, but if like me you get frustrated with constant updates (esp. with OS X 10.11 looming), a VM can be a good way to experiment with software.
 
 ## Shine
-[WebArchives.ca](http://webarchives.ca/)  
-An implementation of the UK Web Archive's [Shine Interface](https://github.com/ukwa/shine). It received [some media attention in Canada](http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-professor-restores-deleted-political-platforms-promises-1.3204877), showing an appetite for this sort of material.
+[WebArchives.ca](http://webarchives.ca/): a search interface for Archive-It's collection of [Canadian Political Parties and Interest Groups](https://archive-it.org/collections/227).
+
+![Shine](https://raw.githubusercontent.com/ianmilligan1/Aarhus-Netlab/master/Shine.png)
+
+WebArchives.ca is an implementation of the UK Web Archive's [Shine Interface](https://github.com/ukwa/shine) – an amazing front end that I'll be talking about in the lecture.
+
+It received [some media attention in Canada](http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-professor-restores-deleted-political-platforms-promises-1.3204877), showing an appetite for this sort of material.
 
 ## HistoryCrawler Virtual Machine
 [Gephi](http://gephi.github.io/) can occasionally be a nightmare to get running, at least on Mac OS X. Seemingly, every time you upgrade an OS X version it breaks. To get around these incompatabilities, I use virtual machines. 
