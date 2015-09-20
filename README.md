@@ -1,5 +1,12 @@
 # Aarhus-Netlab
-NetLab Meeting, Aarhus
+NetLab Meeting, 22 September 2015, Aarhus University (Denmark)
+
+I had the pleasure of speaking to NetLab members at one of their meetings about:
+- why I think historians need to use web archives;
+- why existing acccess methods (i.e. Wayback Machine or Archive-It search) are insufficient;
+- how a combination of Warcbase and Shine can help you unlock your collections!
+
+Slidedeck has been uploaded as a PDF.
 
 Some links:
 
@@ -11,5 +18,10 @@ And sample data provided in this repo: output from [Site Link Structure](https:/
 
 ## Shine
 [WebArchives.ca](http://webarchives.ca/)  
-
 An implementation of the UK Web Archive's [Shine Interface](https://github.com/ukwa/shine).
+
+## Virtual Machine
+[Gephi](http://gephi.github.io/) can occasionally be a nightmare to get running, at least on Mac OS X. Seemingly, every time you upgrade an OS X version it breaks. To get around these incompatabilities, I use virtual machines. One example is [HistoryCrawler](http://ianmilligan.ca/historycrawler/), soon to natively support Gephi.
+
+## Questions/Comments
+I am always happy to chat. My personal website is at [ianmilligan.ca](http://ianmilligan.ca) or you can [e-mail me](mailto:i2millig@uwaterloo.ca].
