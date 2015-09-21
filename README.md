@@ -20,7 +20,7 @@ Some links:
 
 And sample data provided in this repo: output from [Site Link Structure](https://github.com/lintool/warcbase/wiki/Pig:-Analysis-of-Site-Link-Structure) is part-r-00000; output from `pig2gdf.py` can be found in `political-links.csv`.
 
-I will show a brief example with Gephi. It's best if you're running this on your own machine, but if like me you get frustrated with constant updates (esp. with OS X 10.11 looming), a VM can be a good way to experiment with software.
+I will show a brief example with Gephi. If you have trouble using Gephi, see my section on troubleshooting below.
 
 ## Shine
 [WebArchives.ca](http://webarchives.ca/): a search interface for Archive-It's collection of [Canadian Political Parties and Interest Groups](https://archive-it.org/collections/227).
@@ -32,10 +32,12 @@ WebArchives.ca is an implementation of the UK Web Archive's [Shine Interface](ht
 
 It received [some media attention in Canada](http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-professor-restores-deleted-political-platforms-promises-1.3204877), showing an appetite for this sort of material.
 
-## HistoryCrawler Virtual Machine
-[Gephi](http://gephi.github.io/) can occasionally be a nightmare to get running, at least on Mac OS X. Seemingly, every time you upgrade an OS X version it breaks. To get around these incompatabilities, I use virtual machines. 
+## Gephi Troubleshooting: HistoryCrawler Virtual Machine
+[Gephi](http://gephi.github.io/) can occasionally be a nightmare to get running, at least on Mac OS X. Seemingly, every time you upgrade an OS X version it breaks. One workaround, confirmed to work on OS X Mavericks and OS X Yosemite, can be [found on my blog](http://ianmilligan.ca/2014/07/15/getting-gephi-running-on-os-x-mavericks/).
 
-One example is [HistoryCrawler](http://ianmilligan.ca/historycrawler/), developed at Western University and the University of Waterloo. It does not have Gephi included, but the install instructions [on their webpage](http://gephi.github.io/users/install/) work swimmingly (tested 20 September 2015).
+One way to make sure you can get around Java issues is to use a Virtual Machine. 
+
+One example is [HistoryCrawler](http://ianmilligan.ca/historycrawler/), developed at Western University and the University of Waterloo. It does not have Gephi included, but the install instructions [on their webpage](http://gephi.github.io/users/install/) work swimmingly (tested 20 September 2015). It uses VirtualBox.
 
 ## Questions/Comments
 I am always happy to chat. My personal website is at [ianmilligan.ca](http://ianmilligan.ca) or you can [e-mail me](mailto:i2millig@uwaterloo.ca].
