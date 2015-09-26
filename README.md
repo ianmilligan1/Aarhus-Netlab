@@ -12,7 +12,7 @@ Slidedeck has been uploaded as a PDF, [available here](https://github.com/ianmil
 
 I was also invited to speak, later in the day, at the Centre for Internet Studies on my work with the GeoCities torrent. [The page about my talk is available here](http://cfi.au.dk/news/article/artikel/cfi-seminar-web-history-geocities-and-news-websites/).
 
-Some links:
+Some links follow in the sections below.
 
 ## Warcbase
 [The Warcbase Wiki is available here](https://github.com/lintool/warcbase/wiki)  
@@ -37,7 +37,7 @@ It received [some media attention in Canada](http://www.cbc.ca/news/canada/kitch
 
 One way to make sure you can get around Java issues is to use a Virtual Machine. 
 
-One example is [HistoryCrawler](http://ianmilligan.ca/historycrawler/), developed at Western University and the University of Waterloo. It does not have Gephi included, but the install instructions [on their webpage](http://gephi.github.io/users/install/) work swimmingly (tested 20 September 2015). It uses VirtualBox.
+One example is [HistoryCrawler](http://ianmilligan.ca/historycrawler/), developed at Western University and the University of Waterloo. It does not have Gephi included, but the install instructions [on their webpage](http://gephi.github.io/users/install/) work swimmingly (tested 20 September 2015). It uses [VirtualBox](https://www.virtualbox.org/).
 
 ## Questions/Comments
 I am always happy to chat. My personal website is at [ianmilligan.ca](http://ianmilligan.ca) or you can [e-mail me](mailto:i2millig@uwaterloo.ca].
