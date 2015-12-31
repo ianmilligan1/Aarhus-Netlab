@@ -32,12 +32,8 @@ WebArchives.ca is an implementation of the UK Web Archive's [Shine Interface](ht
 
 It received [some media attention in Canada](http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-professor-restores-deleted-political-platforms-promises-1.3204877), showing an appetite for this sort of material.
 
-## Gephi Troubleshooting: HistoryCrawler Virtual Machine
-[Gephi](http://gephi.github.io/) can occasionally be a nightmare to get running, at least on Mac OS X. Seemingly, every time you upgrade an OS X version it breaks. One workaround, confirmed to work on OS X Mavericks and OS X Yosemite, can be [found on my blog](http://ianmilligan.ca/2014/07/15/getting-gephi-running-on-os-x-mavericks/).
-
-One way to make sure you can get around Java issues is to use a Virtual Machine. 
-
-One example is [HistoryCrawler](http://ianmilligan.ca/historycrawler/), developed at Western University and the University of Waterloo. It does not have Gephi included, but the install instructions [on their webpage](http://gephi.github.io/users/install/) work swimmingly (tested 20 September 2015). It uses [VirtualBox](https://www.virtualbox.org/).
+## Gephi
+Gephi used to be quite difficult to get up and running, but the recent release of [Gephi 0.9](http://gephi.github.io/) has changed this dramatically. It should work out of the box.
 
 ## Questions/Comments
 I am always happy to chat. My personal website is at [ianmilligan.ca](http://ianmilligan.ca) or you can [e-mail me](mailto:i2millig@uwaterloo.ca].
